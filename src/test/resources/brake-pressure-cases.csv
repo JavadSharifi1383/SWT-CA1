@@ -1,0 +1,5 @@
+requestedPressure,speedKmh,expectedPressure
+0.0,0.0,0.0
+50.0,20.0,50.0
+80.0,30.0,80.0
+100.0,20.0,100.0
